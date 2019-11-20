@@ -1,0 +1,2 @@
+# lmisliteplist
+LMIS-APP-LITE
